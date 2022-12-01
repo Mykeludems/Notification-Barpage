@@ -1,0 +1,198 @@
+body{
+    background-color: aliceblue;
+}
+#OverallDiv{
+    height: 720px;
+    width: 600px;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    left: 350px;
+    border-radius: 10px;
+    padding: 45px;
+}
+#notificationCounter{
+    height: 20px;
+    width: 26px;
+    background-color: rgb(4, 4, 65);
+    color: aliceblue;
+    border-radius: 5px;
+    position: relative;
+    left: 10px;
+    text-align: center;
+}
+#notification{
+    display: flex;
+}
+#NotificationDIv{
+    display: flex;
+    
+}
+#notificationMarker{
+    position: relative;
+    left: 395px;
+    color: rgb(181, 173, 173);
+    
+}
+#tweetBox1{
+    height: 80px;
+    width: 612px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+
+}
+#tweetBox2{
+    height: 80px;
+    width: 612px;
+    background-color: aliceblue;
+    margin-top: 8px;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+
+}
+#tweetBox3{
+    height: 80px;
+    width: 612px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    position: relative;
+    top: 40px;
+
+}
+#tweetBox4{
+    height: 160px;
+    width: 612px;
+    
+    border-radius: 10px;
+    position: relative;
+    top: 50px;
+
+}
+#tweetBox5{
+    height: 80px;
+    width: 612px;
+    
+    border-radius: 10px;
+    position: relative;
+    top: 60px;
+
+}
+#tweetBox6{
+    height: 80px;
+    width: 612px;
+   
+    border-radius: 10px;
+    position: relative;
+    top: 70px;
+
+}
+#tweetBox7{
+    height: 80px;
+    width: 612px;
+    
+    border-radius: 10px;
+    position: relative;
+    top: 80px;
+
+}
+#tweetimage1{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#tweetimage2{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#tweetimage3{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#tweetimage4{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#tweetimage5{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#tweetimage6{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#tweetimage7{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+#tweets1{
+    display: flex;
+}
+#tweets1{
+    position: relative;
+    top: -30px;
+    left: 80px;
+}
+#timer{
+    position: relative;
+    top: -30px;
+    left: 79px;
+    color: darkgrey;
+}
+#middleTweet{
+    color: darkgrey;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#colourRed{
+    height: 6px;
+    width: 6px;
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    top: 8px;
+    left: 8px;
+}
+#chessClub{
+    color: rgb(8, 8, 114);
+    font-size: 20px;
+    position: relative;
+    top: -3px;
+}
+#commentedImage{
+    position: relative;
+    left: 170px;
+}
+#secondInnerline{
+    position: relative;
+    top: -30px;
+    left: 80px;
+}
+#fifthtimer{
+    position: relative;
+    top: -10px;
+    left: -95px;
+    color: darkgrey;
+}
+#borderText{
+    width: 480px;
+    height: 50px;
+    border: solid 1px darkgrey;
+    
+    /* background-color: white; */
+    position: relative;
+    top: -20px;
+    left: 78px;
+   text-align: center;
+   padding: 15px;
+   color: darkgrey;
+   font-size: 17px;
+}
